@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182518319493",
+    "project_id": "com-example-blocdenotas-58461",
+    "storage_bucket": "com-example-blocdenotas-58461.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182518319493:android:500c2d685f6027fd039cec",
+        "android_client_info": {
+          "package_name": "com.example.blocdenotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJH-1fBc27s9BDj9NXombyhQDF0VBptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
